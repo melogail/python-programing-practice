@@ -61,6 +61,7 @@ terminate = False
 
 print("This program will display a calender year for a given year")
 
+
 while not terminate:
     year = getYear()
 
